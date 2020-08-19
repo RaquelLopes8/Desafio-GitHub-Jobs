@@ -1,0 +1,68 @@
+.div-form{
+    width: 100%;
+    margin-left: -40px;
+    padding: 20px 40px;
+    font-size: 14px;
+    font-weight: bold;
+    color: #666;
+}
+.input-job .descricao{
+    width: 326px;
+}
+.input-job{
+    float: left;
+    margin-right: 20px;
+    width: 400px;
+}
+.div-form h2{
+    margin: 0;
+    font-size: 12px;
+    color: #444;
+}
+.input-job input{
+    position: relative;
+    padding: 2px;
+    background: rgba(0, 0, 0, 0.06);
+}
+
+.div-form .div-label{
+    width: auto;
+}
+.div-form .checkbox{
+    float: left;
+    margin-right: 20px;
+    width: 400px;
+}
+.div-form .label{
+    display: block;
+    margin: 0;
+    padding: 26px 0 0 0;
+    font-size: 12px;
+    color: #444;
+}
+.div-form .label input{
+    margin-right: 5px;
+}
+
+.div-form button{
+    float: left;
+    margin-top: 18px;
+    height: 32px;
+    padding: 0 20px;
+    line-height: 32px;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+    color: #fff;
+    text-shadow: -1px -1px 0 rgba(0, 0, 0, 0.3);
+    background: #869ca9;
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#a2b8c5', endColorstr='#869ca9');
+    background: -webkit-gradient(linear, left top, left bottom, from(#a2b8c5), to(#869ca9));
+    background: -moz-linear-gradient(top, #a2b8c5, #869ca9);
+    border: none;
+    -webkit-text-stroke: 1px transparent;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+    cursor: pointer;
+}

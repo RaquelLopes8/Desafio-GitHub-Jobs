@@ -1,0 +1,36 @@
+.header {
+    height: 50px;
+    padding: 0 24px;
+    color: #c9e2f1;
+    background: #2B7FC3;
+    border-top: 4px solid #1D5C8F;
+    border-bottom: 2px solid #D7D5D4;
+}
+
+.cont{
+    padding-bottom: 60px;
+    margin: 0 auto;
+    width: 928px;
+}
+
+.logo {
+    margin: 0;
+    float: left;
+    margin-top: 6px;
+}
+
+.link-nav{
+    margin: 0;
+    float: right;
+}
+
+.link-nav li{
+    list-style-type: none;
+    float: left;
+    margin: 0;
+    height: 50px;
+    padding-left: 20px;
+    line-height: 50px;
+    text-shadow: -1px -1px 1px #16608e;
+    background: 10px 50% no-repeat url(data:image/gif;base64,R0lGODlhAQATAKIEAGCl0GGm0mGm0WKn0v///wAAAAAAAAAAACH5BAEAAAQALAAAAAABABMAAAMJGAQkTQPKqEQCADs=);
+}
